@@ -1,0 +1,13 @@
+2025-04-17 16:49:06,178 - INFO: 正在抓取: {'aid': 1839, 'app_name': 'auto_web_pc', 'category': -1, 'month': 202504, 'offset': 0}
+2025-04-17 16:49:08,025 - INFO: 正在抓取: {'aid': 1839, 'app_name': 'auto_web_pc', 'category': -1, 'month': 202504, 'offset': 20}
+2025-04-17 16:49:09,869 - INFO: 正在抓取: {'aid': 1839, 'app_name': 'auto_web_pc', 'category': -1, 'month': 202503, 'offset': 0}
+2025-04-17 16:49:11,647 - INFO: 正在抓取: {'aid': 1839, 'app_name': 'auto_web_pc', 'category': -1, 'month': 202503, 'offset': 20}
+2025-04-17 16:49:13,535 - INFO: 正在抓取: {'aid': 1839, 'app_name': 'auto_web_pc', 'category': -1, 'month': 202503, 'offset': 40}
+2025-04-17 16:49:15,515 - INFO: 正在抓取: {'aid': 1839, 'app_name': 'auto_web_pc', 'category': -1, 'month': 202502, 'offset': 0}
+2025-04-17 16:49:17,356 - INFO: 正在抓取: {'aid': 1839, 'app_name': 'auto_web_pc', 'category': -1, 'month': 202502, 'offset': 20}
+2025-04-17 16:49:19,133 - INFO: 正在抓取: {'aid': 1839, 'app_name': 'auto_web_pc', 'category': -1, 'month': 202501, 'offset': 0}
+2025-04-17 16:49:21,102 - INFO: 正在抓取: {'aid': 1839, 'app_name': 'auto_web_pc', 'category': -1, 'month': 202500, 'offset': 0}
+2025-04-17 16:49:22,879 - INFO: 正在抓取: {'aid': 1839, 'app_name': 'auto_web_pc', 'category': -1, 'month': 202499, 'offset': 0}
+2025-04-17 16:49:23,163 - ERROR: JSON结构异常: 'series_list'
+2025-04-17 16:49:23,163 - INFO: 没有更多数据
+2025-04-17 16:49:23,168 - INFO: 成功保存183条数据到dongchedi_cars.csv
